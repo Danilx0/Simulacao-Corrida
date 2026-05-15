@@ -7,7 +7,7 @@ visualizar a progressão do
 ## 🚀 Tecnologias
 
 - Java
-- Biblioteca Lang do java
+- Biblioteca J.lang do java
 
 ## ▶️ Uso
 
